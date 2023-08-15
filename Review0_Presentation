@@ -5,3 +5,9 @@ With an increasingly diverse customer base, understanding sentiments across diff
 Using advanced natural language processing techniques and machine learning algorithms, our project aims to extract sentiments expressed in various languages within product reviews. 
 Additionally, we extend our analysis to provide intelligent recommendations based on the sentiment patterns identified.
 By harnessing the power of multilingual sentiment analysis and recommendation systems, businesses can gain profound insights into customer preferences, fine-tune their products and services, and deliver a more personalized user experience.
+#Problem statement
+In the modern e-commerce landscape, analyzing sentiments across multiple languages in product reviews and leveraging the insights to offer personalized recommendations remains a critical challenge. 
+We need a smart solution that can fill this gap and provide businesses with useful insights to better engage customers and in strategic decision making.
+#objectives
+Research Objective 1: Create a multilingual sentiment analysis model capable of analyzing sentiments expressed in product reviews across different languages.
+Research Objective   2: Design and implement a recommendation system that utilizes the sentiment analysis results to provide personalized product recommendations to users.
